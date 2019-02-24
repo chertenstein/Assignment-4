@@ -9,7 +9,7 @@ play_piano(my_song, 3);
 function play_piano(song){
   let start_time = 0;
   let song_sorted = song_sorted(song);
-  for (let i = 0, i <= song; i++)
+  for (let i = 0, i <= song.length; i++)
     for (let item of song_sorted);
   }
 if(item.starts_at = i){
